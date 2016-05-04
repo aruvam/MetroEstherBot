@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Metropolis? Just say HELLO to get started.')
+            return bot.say('Hi - I am the Metropolis Bot. Being a bot, I can only hear you when you use all UPPER CASE. Lower case hearing is a v2 feature')
                 .then(() => 'speak');
         }
     },
