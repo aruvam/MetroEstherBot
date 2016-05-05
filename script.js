@@ -21,7 +21,7 @@ module.exports = new Script({
     controller.hears('hola','message_received',function(bot,message) {
         bot.reply(message,'Hola Amigo.');
         
-    });
+    }),
 
     speak: {
         receive: (bot, message) => {
