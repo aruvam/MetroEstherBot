@@ -3,6 +3,7 @@
 	"SUP": "Hey, it is an exciting week here at Metropolis! Today is looking great with lots of sunshine and no planned street closures or construction\nDuring the week, we have the Accela Product Summit, the Arts and Wind Festival, and a City Council Meeting %[Tell me about the Accela Product Summit](postback:twitter) %[The Art and Wind Festival sounds like fun](postback:twitter) %[When is the City Council Meeting?](postback:twitter)",
 	"BLD16-00120": "It looks like the plans are still being reviewed. You should receive an update in 3 days: %[See Permit Details online](https://is.gd/metrobotpermit)",
 	"HAS MY PERMIT BEEN APPROVED?": "I can check on that for you. Enter your permit number if you have it. If not, say NO",
+	"I AM NEW HERE":"Awesome. Glad to have you here. You should check out our new resident portal: %[Visit MoveList](https://accela.invisionapp.com/share/6N79J54AF#/screens)",
 	"CONNECT ME": "",
 	"DISCONNECT": "The City may never sleep but I do. Off to get some R&R... See you next time"
 }
