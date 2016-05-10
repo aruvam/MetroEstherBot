@@ -2,7 +2,7 @@
 	"HELLO": "Welcome to Metropolis, the ficticious city for Accela Demos.\n![Metropolis](https://s3.amazonaws.com/uploads.hipchat.com/70025/493314/Ao9m9eUW5DWbfFD/Screen%20Shot%202016-05-03%20at%2012.20.53%20PM.png)\nWould you like the recent city news and updates or are you looking for something in particular? %[Give me the news and updates](postback:sup) %[I need assistance with something](postback:learn_about_esther) %[I am new to the city! Tell me more about Metropolis](postback:random_fact)",
 	"SUP": "Hey, it is an exciting week here at Metropolis! Today is looking great with lots of sunshine and no planned street closures or construction\nDuring the week, we have the Accela Product Summit, the Arts and Wind Festival, and a City Council Meeting %[Tell me about the Accela Product Summit](postback:twitter) %[The Art and Wind Festival sounds like fun](postback:twitter) %[When is the City Council Meeting?](postback:twitter)",
 	"PERMIT": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-	"HAS MY PERMIT BEEN APPROVED?": "I can check on that for you. Do you have your permit number? If not, say NO"
+	"HAS MY PERMIT BEEN APPROVED?": "I can check on that for you. Do you have your permit number? If not, say NO",
 	"CONNECT ME": "",
 	"DISCONNECT": "The City may never sleep but I do. Off to get some R&R... See you next time"
 }
