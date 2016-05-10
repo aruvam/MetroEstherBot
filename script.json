@@ -2,8 +2,10 @@
 	"HELLO": "Welcome to Metropolis, the ficticious city for Accela Demos.\n![Metropolis](https://s3.amazonaws.com/uploads.hipchat.com/70025/493314/Ao9m9eUW5DWbfFD/Screen%20Shot%202016-05-03%20at%2012.20.53%20PM.png)\nWould you like the recent city news and updates or are you looking for something in particular? %[Give me the news and updates](postback:sup) %[I need assistance with something](postback:learn_about_esther) %[I am new to the city! Tell me more about Metropolis](postback:random_fact)",
 	"SUP": "Hey, it is an exciting week here at Metropolis! Today is looking great with lots of sunshine and no planned street closures or construction\nDuring the week, we have the Accela Product Summit, the Arts and Wind Festival, and a City Council Meeting %[Tell me about the Accela Product Summit](postback:twitter) %[The Art and Wind Festival sounds like fun](postback:twitter) %[When is the City Council Meeting?](postback:twitter)",
 	"BLD16-00120": "It looks like the plans are still being reviewed. You should receive an update in 3 days: %[See Permit Details online](https://is.gd/metrobotpermit)",
-	"HAS MY PERMIT BEEN APPROVED?": "I can check on that for you. Enter your permit number if you have it. If not, say NO",
+	"HAS MY PERMIT BEEN APPROVED?": "I can check on that for you. Enter your permit number if you have it. If not, say NO ID",
 	"I AM NEW HERE":"Awesome. Glad to have you here. You should check out our new resident portal: %[Visit MoveList](https://accela.invisionapp.com/share/6N79J54AF#/screens)",
+	"I WOULD LIKE TO START A RESTAURANT":"That's fantastic. Click the button below to visit our business portal for step-by-step instructions on how to get started: %[Visit BizPortal](https://accela.invisionapp.com/share/Z976WQ8TC#/screens)",
 	"CONNECT ME": "",
+	"NO ID":"That's fine. Enter the address for the project",
 	"DISCONNECT": "The City may never sleep but I do. Off to get some R&R... See you next time"
 }
